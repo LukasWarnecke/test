@@ -12,3 +12,18 @@ D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calcula
 D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.pdb
 D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.genruntimeconfig.cache
 D:\Coding\Inholland\Year 2\term 3\Git-workshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\ref\calculator-git-assignment.dll
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.exe
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.deps.json
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.runtimeconfig.json
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.dll
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\bin\Debug\net8.0\calculator-git-assignment.pdb
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.AssemblyInfo.cs
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.sourcelink.json
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.dll
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\refint\calculator-git-assignment.dll
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.pdb
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\calculator-git-assignment.genruntimeconfig.cache
+C:\Users\lukas\Desktop\projects\githubworkshop\calculator-git-assignment\calculator-git-assignment\obj\Debug\net8.0\ref\calculator-git-assignment.dll
